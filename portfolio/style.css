@@ -3,6 +3,10 @@
 body {
     padding: 60px 0px;
 }
+
+/* --- carte --- */
+
+
 .animate {
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -136,4 +140,97 @@ a.linkedin {
 }
 a.linkedin:hover {
     background-color: rgb(1, 116, 179) !important;
+}
+
+/* --- Page --- */
+
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.6em;
+
+}
+
+h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 32px;
+}
+h3 {
+    font-size: 28px;
+}
+h4 {
+    font-size: 24px;
+}
+h5 {
+    font-size: 20px;
+}
+h6 {
+    font-size: 18px;
+}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+    color: #2C3B40;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.intro-text {
+    position:relative;
+    width:100%;
+    margin-top:50px;
+    z-index:1000;
+}
+
+.intro-text h1 a {
+    color:#2C3B40;
+    text-align:center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height:1.1em;
+    padding-top:30px;
+    text-transform: uppercase;
+}
+.intro-text h1 a:hover {
+    text-decoration: none;
+}
+
+.line-spacer {
+    width: 20%;
+    margin:0 auto;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    border-bottom:1px solid #2C3B40;
+}
+
+.line-spacer.black{
+    border-bottom:1px solid #000;
+}
+
+.intro-text p span {
+    color:#2C3B40;
+    font-size: 24px;
+    text-align:center;
+    font-weight: 300;
+}
+
+.bg-white {
+    background: #fff;
+}
+
+.bg-gray {
+    background: #A9C1D9;
+}
+
+.bg-dark {
+    background: #036564;
+}
+
+.bg-light {
+    background: #C6D4E1 ;
 }

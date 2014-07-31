@@ -15,9 +15,10 @@
                     <p><small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i> Sherbrooke, Canada</small></p>
                 </div>
                 <div class="timeline-body">
+                    <span>Missions</span>
                     <p>I develop innovative UX solutions, using my skills in communication to conduct research on the quality of the customer experience offered by the products I develop strategies to improve the customer experience and define standards which will be used to create user interfaces products. In addition, I am called to work closely with system analysts, product managers, architects and developers.<p>
                     </br>
-                        <ul>Responsibilities:
+                        <ul><span>Responsibilities:</span>
                         <li>Perform analysis of data collected on the use of CCH products and make recommendations to improve the customer experience.</li>
                         <li>Set standards for deployment in applications in terms of visual appearance and ergonomics, document these standards and provide adequate training.</li>
                         <li>Act as a consultant to the team of product management and development teams to guide them in developing user interfaces that meet the needs and expectations of customers.</li>
@@ -42,13 +43,14 @@
                     <p><small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i> Montpellier, France</small></p>
                 </div>
                 <div class="timeline-body">
+                    <span>Missions</span>
                     <p>Conception de solutions innovantes, positionnement marketing & commercialisation des produits.</p></br>
                         <ul>
                             <li>Sales Intelligence: Plateforme SaaS B to B, d’aide à la prospection commerciale.</li>
                             <li>Marketing Intelligence: Service SaaS B to B, d’audit des communautés web.</li>
                         </ul>
                         </br>
-                        <ul>Mon poste de Product Manager se composait de deux axes:
+                        <ul><span>Responsibilities:</span>
 
                         <li>L'axe UX :
                         Identification des besoins et des standards du marché, identification des fonctionnalités pertinentes et différentiantes vs la concurrence. Rédaction du cahiers des charges techniques & UX, des produits suivant les tests d’usabilité. Veille concurrentielle technologique. Création des différents scénarios d’utilisation, des mock-ups et des illustrations graphiques.
@@ -98,9 +100,11 @@
                     <p><small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i> Montpellier, France</small></p>
                 </div>
                 <div class="timeline-body">
-                    <p>Voix de Neiio auprès des utilisateurs, voix des utilisateurs auprès de Neiio.</p></br>
+                    <span>Missions</span>
+                    <p>Voix de Neiio auprès des utilisateurs, voix des utilisateurs auprès de Neiio. Ma mission principale est d'accompagner le reste l'équipe Neiio a développer un service qui répond aux attentes
+                        des utilisateurs. Le périmètre d'intervention pour mener à bien cette mission est vaste:</p></br>
 
-                        <ul> Ma mission principale est d'accompagner le reste l'équipe Neiio a développer un service qui répond aux attentes des utilisateurs. Le périmètre d'intervention pour mener à bien cette mission est vaste:
+                        <ul><span>Responsibilities:</span>
 
                         <li>Participation à l'élaboration et au suivi des plans de communication "Social Media".</li>
                         <li>Participation à l'élaboration des stratégies marketing.</li>

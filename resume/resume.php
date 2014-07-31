@@ -19,11 +19,10 @@
 						<ul class="dl-menu">
                             <li><a href="http:\\www.gazolean.com">Home</a></li>
 							<li><a href="#profile">Profile</a></li>
-							<li><a href="#education">Education</a></li>
-							<li><a href="#experience">Experience</a></li>
-							<li><a href="#skills">Technical Skills</a></li>
-							<li><a href="#langages">Langages</a></li>
-                            <li><a href="#interests">Interests</a></li>
+							<li><a href="#about">About</a></li>
+							<li><a href="#timeline">Resume</a></li>
+							<li><a href="#expertise">Expertise</a></li>
+							<li><a href="#personalite">Personality</a></li>
 							<li><a href="#contact">Contact</a></li>
 
                             <!-- Liste peu utile pour le CV
@@ -123,7 +122,7 @@
 
 
   <!-- Personality -->
-  <section id="expertise" class="home-section bg-gray">
+  <section id="personalite" class="home-section bg-gray">
       <div class="container">
           <div class="row">
               <div class="col-md-offset-2 col-md-8">
@@ -263,7 +262,7 @@
 						<li><a href="#">
 						<span class="fa-stack fa-2x">
 							<i class="fa fa-circle fa-stack-2x"></i>
-							<i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+							<i class="fa fa-github fa-stack-1x fa-inverse"></i>
 						</span></a>
 						</li>
 					</ul>
