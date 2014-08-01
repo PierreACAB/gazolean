@@ -219,14 +219,11 @@ button.navbar-toggle {
 
 .section-heading p {
     text-align: justify;
-    font-size: 16px;
 }
 
 .section-heading ul {
     text-align: justify;
-    font-size: 16px;
 }
-
 
 /* ================================
 margin, padding
@@ -874,6 +871,15 @@ body {
 .timeline-title {
     margin-top: 0;
     color: inherit;
+}
+
+.timeline-body > p,
+.timeline-body > ul {
+    margin-bottom: 0;
+}
+
+.timeline-body > p + p {
+    margin-top: 5px;
 }
 
 @media (max-width: 767px) {

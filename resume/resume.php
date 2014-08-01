@@ -133,13 +133,13 @@
                           <div class="col-xs-6">
                               <h5>Artistic</h5>
                               <div class="range">
-                                  <input type="range" name="range" min="1" max="100" value="80" onchange="range.value=value">
+                                  <input type="range" name="range" disabled min="1" max="100" value="80">
                               </div>
                           </div>
                           <div class="col-xs-6">
                               <h5>Interpersonal</h5>
                               <div class="range range-primary">
-                                  <input type="range" name="range" min="1" max="100" value="70" onchange="rangePrimary.value=value">
+                                  <input type="range" name="range" disabled min="1" max="100" value="70">
                               </div>
                           </div>
                       </div>
@@ -148,14 +148,14 @@
                           <div class="col-xs-6">
                               <h5>Communication</h5>
                               <div class="range range-success">
-                                  <input type="range" name="range" min="1" max="100" value="85" onchange="rangeSuccess.value=value">
+                                  <input type="range" name="range" disabled min="1" max="100" value="85">
                                   <!-- <output id="rangeSuccess">50</output> -->
                               </div>
                           </div>
                           <div class="col-xs-6">
                               <h5>Managerial</h5>
                               <div class="range range-info">
-                                  <input type="range" name="range" min="1" max="100" value="80" onchange="rangeInfo.value=value">
+                                  <input type="range" name="range" disabled min="1" max="100" value="80">
                               </div>
                           </div>
                       </div>
@@ -164,25 +164,25 @@
                           <div class="col-xs-6">
                               <h5>Curiosity</h5>
                               <div class="range range-warning">
-                                  <input type="range" name="range" min="1" max="100" value="90" onchange="rangeWarning.value=value">
+                                  <input type="range" name="range" disabled min="1" max="100" value="90">
                               </div>
                           </div>
                           <div class="col-xs-6">
                               <h5>Mechanical</h5>
                               <div class="range range-danger">
-                                  <input type="range" name="range" min="1" max="100" value="35" onchange="rangeDanger.value=value">
+                                  <input type="range" name="range" disabled min="1" max="100" value="35">
                               </div>
                           </div>
                           <div class="col-xs-6">
                               <h5>Science</h5>
                               <div class="range range-danger">
-                                  <input type="range" name="range" min="1" max="100" value="55" onchange="rangeDanger.value=value">
+                                  <input type="range" name="range" disabled min="1" max="100" value="55">
                               </div>
                           </div>
                           <div class="col-xs-6">
                               <h5>Mathematics</h5>
                               <div class="range range-danger">
-                                  <input type="range" name="range" min="1" max="100" value="60" onchange="rangeDanger.value=value">
+                                  <input type="range" name="range" disabled min="1" max="100" value="60">
                               </div>
                           </div>
                       </div>
