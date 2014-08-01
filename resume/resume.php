@@ -128,7 +128,6 @@
               <div class="col-md-offset-2 col-md-8">
               <div class="section-heading">
                       <h2>Personnality</h2>
-
                       <div class="row">
                           <div class="col-xs-6">
                               <h5>Artistic</h5>
