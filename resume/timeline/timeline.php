@@ -11,7 +11,7 @@
             <div class="timeline-badge job">Oct 2013</div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
-                    <h4 class="timeline-title">UX Specialist / Wolters Kluwer</h4>
+                    <h4 class="timeline-title">UX Specialist</h4>
                     <p><small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i> Sherbrooke, Canada</small></p>
                 </div>
                 <div class="timeline-body">
@@ -19,18 +19,19 @@
                     <p>I develop innovative UX solutions, using my skills in communication to conduct research on the quality of the customer experience offered by the products I develop strategies to improve the customer experience and define standards which will be used to create user interfaces products. In addition, I am called to work closely with system analysts, product managers, architects and developers.<p>
                     </br>
                         <ul><b>Responsibilities:</b>
-                        <li>Perform analysis of data collected on the use of CCH products and make recommendations to improve the customer experience.</li>
-                        <li>Set standards for deployment in applications in terms of visual appearance and ergonomics, document these standards and provide adequate training.</li>
-                        <li>Act as a consultant to the team of product management and development teams to guide them in developing user interfaces that meet the needs and expectations of customers.</li>
-                        <li>Designing different user interface (WireFrame, Lo-Fi) and present clients representatives and development teams scenarios.</li>
-                        <li>Write the specifications according to the solution (Hi-Fi)</li>
-                        <li>Confirm the specifications in accordance with applicable CMMI process.</li>
-                        <li>If necessary, coordinate the usability of the new features offered by the product tests.</li>
-                        <li>Work with the marketing team and external consultants to develop graphic elements that will be incorporated into installation programs and applications.</li>
-                        <li>Act as a consultant to senior management as part of the analysis of new concepts.</li>
+                        <li>Perform data analysis to improve the experience of each products.</li>
+                        <li>Set UX & UI standards for applications deployment, document these standards and provide training.</li>
+                        <li>Collaborate with development, sales and marketing team to elaborate products and features which meet needs of the customers.</li>
+                        <li>Coordinate the usability tests of the new features.</li>
+                        <li>Design different user interfaces (WireFrame, Lo-Fi) and get feedbacks from users.</li>
+                        <li>Write UX & UI specifications according to the solution.</li>
+                        <li>Act as a strategic consultant to upper-management.</li>
                         <li>Ensure constant technology watch to remain at the forefront of standards in user experience and information architecture.</li>
                         </ul>
-                    </p>
+                    </p></br>
+                <div id="company">
+                    <img src="img/picto/wklogo.png">
+                </div>
                 </div>
             </div>
         </li>
@@ -39,27 +40,33 @@
             <div class="timeline-badge job">Oct 2011</div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
-                    <h4 class="timeline-title">Product Manager / Neiio</h4>
+                    <h4 class="timeline-title">Product Manager</h4>
                     <p><small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i> Montpellier, France</small></p>
                 </div>
                 <div class="timeline-body">
-                    <b>Missions</b>
-                    <p>Conception de solutions innovantes, positionnement marketing & commercialisation des produits.</p></br>
-                        <ul>
-                            <li>Sales Intelligence: Plateforme SaaS B to B, d’aide à la prospection commerciale.</li>
-                            <li>Marketing Intelligence: Service SaaS B to B, d’audit des communautés web.</li>
-                        </ul>
+                    <p>B to B SaaS platform which support business development throught an automated leads detection system and provide
+                        an audit of web communities.</p>
                         </br>
-                        <ul><b>Responsibilities:</b>
-
-                        <li>L'axe UX :
-                        Identification des besoins et des standards du marché, identification des fonctionnalités pertinentes et différentiantes vs la concurrence. Rédaction du cahiers des charges techniques & UX, des produits suivant les tests d’usabilité. Veille concurrentielle technologique. Création des différents scénarios d’utilisation, des mock-ups et des illustrations graphiques.
-                        </li>
-
-                        <li>l'axe Marketing :
-                        Définition de la stratégie d’acquisition client. Optimisation du tunnel d’acquisition, traffic management, pilotage de campagnes webmarketing (display & adwords). Mise en place et suivi et analyse des KPI. Management d’équipes en méthodes de travail agile (SCRUM). Élaboration des supports d’aide à la vente. Création et rédaction de campagnes e-mails et newsletters. Gestion et suivi  des campagnes multicanal. Élaboration des documents de communication externe (plaquettes commerciales, infographies), interne ( cahiers des charges, fiches produits) et animation des réseaux sociaux.
-                        </li>
+                        <ul><b>Missions:</b>
+                        <li>Numerous exchanges with the users community, to elaborate proximity and understand their universe and theirs needs.</li>
+                        <li>Needs, market standards and differenciating features identification.</li>
+                        <li>Drafting of UX & UI specifications</li>
+                        <li>Creation of usability scenarios, mock-ups and graphic illustrations.</li>
+                        <li>Definition of customer acquisition
+                            strategy.</li>
+                        <li>Optimization of the acquisition funnel, traffic management, web marketing campaigns (adwords & display).</li>
+                        <li>Implementation of KPIs, monitoring and perform analysis of collected data.</li>
+                        <li>Management teams in working methods agile (SCRUM).</li>
+                        <li>Development of sale materials support.</li>
+                        <li>Creating and monitoring newsletters campaigns.</li>
+                        <li>Creation of external communication documents (sales brochures, infographics) and
+                            internal (specifications, data sheets) and facilitation of social networks.</li>
+                        <li>Management of the development team to define priorities, follow development process and meet the deadlines.</li>
                         </ul>
+                    </p></br>
+                    <div id="company">
+                        <img src="img/picto/neiiologo.png">
+                    </div>
                 </div>
             </div>
         </li>
@@ -72,7 +79,15 @@
 
                 </div>
                 <div class="timeline-body">
-                    <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+                    <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris,
+                        paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra
+                        quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis
+                        i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+
+                    </p></br>
+                    <div id="company">
+                        <img src="img/picto/sdclogo.png">
+                    </div>
                     <!-- bouton
 
 <hr>
@@ -96,11 +111,11 @@
             <div class="timeline-badge internship">Mars 2011</i></div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
-                    <h4 class="timeline-title">Community manager / Neiio</h4>
+                    <h4 class="timeline-title">Community manager</h4>
                     <p><small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i> Montpellier, France</small></p>
                 </div>
                 <div class="timeline-body">
-                    <bold>Missions</bold>
+                    <b>Missions</b>
                     <p>Voix de Neiio auprès des utilisateurs, voix des utilisateurs auprès de Neiio. Ma mission principale est d'accompagner le reste l'équipe Neiio a développer un service qui répond aux attentes
                         des utilisateurs. Le périmètre d'intervention pour mener à bien cette mission est vaste:</p></br>
 
@@ -112,6 +127,10 @@
                         <li>Création de contenus (articles, vidéos, images...).</li>
                         <li>Interaction avec les utilisateurs (Réseaux sociaux + GetSatisfaction)</li>
                         </ul>
+                    </p></br>
+                    <div id="company">
+                        <img src="img/picto/neiiologo.png">
+                    </div>
                 </div>
             </div>
         </li>
@@ -125,7 +144,14 @@
 
                 </div>
                 <div class="timeline-body">
-                    <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+                    <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris,
+                        paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é
+                        amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim.
+                        Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+                    </br>
+                    <div id="company">
+                        <img src="img/picto/ublogo.png">
+                    </div>
                 </div>
             </div>
         </li>

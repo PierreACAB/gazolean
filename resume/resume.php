@@ -55,7 +55,7 @@
 							<p><span>Quebec, Canada</span></p>
 							</p>
 							<div class="line-spacer"></div>
-							<p><h3 >" ... "</h3>
+							<p><h3 >" French Connection Product Manager "</h3>
 							<div class="line-spacer"></div>
 							<p><span>27 <i class="fa fa-heart"></i></span><p>
 							<p><span>5 <i class="fa fa-shield"></i></span><p>
@@ -73,9 +73,18 @@
             <div class="row">
                 <div class="col-md-offset-2 col-md-8">
                     <div class="section-heading">
-                        <h2>Objectives</h2>
-                        <p>Such a visit was, indeed, opportune. The clothing of both Mr. Fogg and Fix was in rags, as if they had themselves been actively engaged in the contest between Camerfield and Mandiboy. An hour after, they were once more suitably attired, and with Aouda returned to the International Hotel.
-                            Passepartout was waiting for his master, armed with half a dozen six-barrelled revolvers. When he perceived Fix, he knit his brows; but Aouda having, in a few words, told him of their adventure, his countenance resumed its placid expression. Fix evidently was no longer an enemy, but an ally; he was faithfully keeping his word.</p>
+                        <h2>Visions</h2>
+                        <p> 3 years as the PM in a startup and my current experience as UX designer in
+                            Wolters Kluwer taught me how to be very innovative in an agile and chaotic environement as well as it taught me how
+                            implementing and executing structure and processes that are critical for achieving scalable and usable MVP.</br>
+                            </br>
+                            These past experiences helped me to define my vision of a great PM and the kind of PM that I tend to be. It is for me a capital job because
+                            it is managing the team’s
+                            most important resource: <b>TIME</b>. The great product manager need to know how to <b>innovate through minimalism</b>, carve down the scope of the
+                            product until it makes sense for the users. It must also <p>build respect</b> without formal authority from engineers and engineering managers
+                            to influence the development calendar by <b>staying focus on the product and users</b>. He needs to be able to remember that it is not because
+                            you can that you should. The PM has also great communication skills by <b>knowing how to say ‘‘No’’</b> to most of users feature request while
+                            keeping them happy and excited about the products. </p>
                     </div>
                 </div>
             </div>
