@@ -78,6 +78,16 @@
                 .each(function(d) { this._current = updateArc(d); })
                 .on("click", zoomIn);
 
+        var text = svg.selectAll("text")
+            .data(partition.nodes(root).slice(1))
+            .enter().append("text")
+            .attr("transform", function(d) { return "rotate(" + computeTextRotation(d) + ")"; })
+            .attr("x", function(d) { return (d.y); })
+            .attr("dx", "6") // margin
+            .attr("dy", ".35em") // vertical-align
+            .text(function(d) { return d.name; })
+            .on("click", zoomIn);
+
         function zoomIn(p) {
             if (p.depth > 1) p = p.parent;
             if (!p.children) return;
@@ -122,10 +132,17 @@
             if (root !== p) enterArc = insideArc, exitArc = outsideArc, outsideAngle.range([p.x, p.x + p.dx]);
 
             d3.transition().duration(d3.event.altKey ? 7500 : 750).each(function() {
+
+                // fade out all text elements
+                text.transition().attr("opacity", 0);
+
                 path.exit().transition()
                         .style("fill-opacity", function(d) { return d.depth === 1 + (root === p) ? 1 : 0; })
                         .attrTween("d", function(d) { return arcTween.call(this, exitArc(d)); })
                         .remove();
+
+                text.transition()
+                    .remove();
 
                 path.enter().append("path")
                         .style("fill-opacity", function(d) { return d.depth === 2 - (root === p) ? 1 : 0; })
@@ -133,9 +150,27 @@
                         .on("click", zoomIn)
                         .each(function(d) { this._current = enterArc(d); });
 
+                n = 0;
                 path.transition()
-                        .style("fill-opacity", 1)
-                        .attrTween("d", function(d) { return arcTween.call(this, updateArc(d)); });
+                    .style("fill-opacity", 1)
+                    .attrTween("d", function(d) { return arcTween.call(this, updateArc(d)); })
+                    .each(function() { ++n; })
+                    .each('end',
+                    function(e)
+                    {
+                        if (!--n)
+                        {
+                            text = svg.selectAll("text")
+                                .data(partition.nodes(root).slice(1))
+                                .enter().append("text")
+                                .attr("transform", function(d) { return "rotate(" + computeTextRotation(d) + ")"; })
+                                .attr("x", function(d) { return (d.y); })
+                                .attr("dx", "6") // margin
+                                .attr("dy", ".35em") // vertical-align
+                                .text(function(d) { return d.name; })
+                                .on("click", zoomIn);
+                        }
+                    })
             });
         }
     });
@@ -164,6 +199,10 @@
 
     function updateArc(d) {
         return {depth: d.depth, x: d.x, dx: d.dx};
+    }
+
+    function computeTextRotation(d) {
+        return ((d.x + d.dx / 2) - Math.PI / 2) / Math.PI * 180;
     }
 
     d3.select(self.frameElement).style("height", margin.top + margin.bottom + "px");
