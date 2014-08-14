@@ -35,7 +35,7 @@
                         </ul>
                     </p></br>
                 <div id="company">
-                    <img src="img/picto/wklogo.png">
+                    <img src="img/logo/wklogo.png">
                 </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
                         </ul>
                     </p></br>
                     <div id="company">
-                        <img src="img/picto/neiiologo.png">
+                        <img src="img/logo/neiiologo.png">
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@
                 <div class="timeline-body">
                     </p></br>
                     <div id="company">
-                        <img src="img/picto/sdclogo.png">
+                        <img src="img/logo/sdclogo.png">
                     </div>
                     <!-- bouton
 
@@ -131,7 +131,7 @@
                         </ul>
                     </p></br>
                     <div id="company">
-                        <img src="img/picto/neiiologo.png">
+                        <img src="img/logo/neiiologo.png">
                     </div>
                 </div>
             </div>
@@ -157,7 +157,7 @@
                         <li>Recommendations and merchandising ajustments with retailers.</li>
                     </br></p>
                     <div id="company">
-                        <img src="img/picto/ublogo.png">
+                        <img src="img/logo/ublogo.png">
                     </div>
                 </div>
             </div>
@@ -196,7 +196,7 @@
                 </div>
                 <div class="timeline-body">
                     <div id="company">
-                        <img src="img/picto/esarclogo.png">
+                        <img src="img/logo/esarclogo.png">
                     </div>
                 </div>
             </div>
