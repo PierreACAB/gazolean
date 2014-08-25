@@ -99,7 +99,9 @@
                 <div class="col-md-offset-2 col-md-8">
                     <div class="section-heading">
                         <h2>About</h2>
-                        <p>In an enterprising and voluntary nature, I am passionate about innovation, sciences and technologies. I love to solve old and recurrent problem with new and innovative solutions. I do believe in data and serendipity, I love to meet speak and discover peoples, problematics and horizons. To do so I've travelled a lot and find my inspirations on differences and discoveries. From my recent past of high level rugbymen I've conserved an energic and enthusiastic attitude.</p>
+                        <p>Serendipity-driven, I've jumped into the digital world with passion. My major goal is to diffuse worldwide disruptive solutions to old problems.
+                            I enjoyed designing product will create cognitive dissonance and target proximal development zone. I'm an project-alchemist
+                            who knows the precise balance of management, initiatives and bravery needed to create a successful potion of entrepreneurship. </p>
                     </div>
                 </div>
             </div>
