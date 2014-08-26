@@ -55,7 +55,7 @@
 							<p><span>Quebec, Canada</span></p>
 							</p>
 							<div class="line-spacer"></div>
-							<p><h3 >" French Connection Product Manager "</h3>
+							<p><h3 >" Product alchemist "</h3>
 							<div class="line-spacer"></div>
 							<p><span>27 <i class="fa fa-heart"></i></span><p>
 							<p><span>5 <i class="fa fa-shield"></i></span><p>
@@ -78,12 +78,12 @@
                             Wolters Kluwer taught me how to be very innovative in an agile and chaotic environement as well as it taught me how
                             implementing and executing structure and processes that are critical for achieving scalable and usable MVP.</br>
                             </br>
-                            These past experiences helped me to define my vision of a great PM and the kind of PM that I tend to be. It is for me a capital job because
+                            These past experiences helped me to define my vision of the Product Designer that I tend to be. It is for me a capital job because
                             it is managing the team’s
-                            most important resource: <b>TIME</b>. The great product manager need to know how to <b>innovate through minimalism</b>, carve down the scope of the
+                            most important resource: <b>TIME</b>. The great product designer need to know how to <b>innovate through minimalism</b>, carve down the scope of the
                             product until it makes sense for the users. It must also <p>build respect</b> without formal authority from engineers and engineering managers
                             to influence the development calendar by <b>staying focus on the product and users</b>. He needs to be able to remember that it is not because
-                            you can that you should. The PM has also great communication skills by <b>knowing how to say ‘‘No’’</b> to most of users feature request while
+                            you team can that your team should. The Product Designer has also great communication skills by <b>knowing how to say ‘‘No’’</b> to most of users feature request while
                             keeping them happy and excited about the products. </p>
                     </div>
                 </div>
